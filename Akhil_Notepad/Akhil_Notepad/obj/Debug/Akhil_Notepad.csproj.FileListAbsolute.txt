@@ -1,0 +1,21 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.csprojResolveAssemblyReference.cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Find.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.exe.config
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\bin\Debug\Akhil_Notepad.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.csprojResolveAssemblyReference.cache
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Find.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Form1.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Properties.Resources.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.Replace.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_Notepad\Akhil_Notepad\obj\Debug\Akhil_Notepad.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\bin\Debug\Akhil_MaskedTextBox_LinkLabel.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\bin\Debug\Akhil_MaskedTextBox_LinkLabel.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\bin\Debug\Akhil_MaskedTextBox_LinkLabel.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.csprojResolveAssemblyReference.cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.Form2.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_MaskedTextBox_LinkLabel\Akhil_MaskedTextBox_LinkLabel\obj\Debug\Akhil_MaskedTextBox_LinkLabel.Akhil_DigitalClock.resources

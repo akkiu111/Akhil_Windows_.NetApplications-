@@ -1,0 +1,10 @@
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_StudentApplication\bin\Debug\Akhil's_DemoStudentApplication.exe.config
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\bin\Debug\Akhil's_DemoStudentApplication.exe.config
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\bin\Debug\Akhil's_DemoStudentApplication.exe
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\bin\Debug\Akhil's_DemoStudentApplication.pdb
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil's_DemoStudentApplication.csprojResolveAssemblyReference.cache
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil_s_DemoStudentApplication.Form1.resources
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil_s_DemoStudentApplication.Properties.Resources.resources
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil's_DemoStudentApplication.csproj.GenerateResource.Cache
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil's_DemoStudentApplication.exe
+D:\Courses\Consultancy_Assignments\Akhil's_DemoStudentApplication\Akhil's_DemoStudentApplication\obj\Debug\Akhil's_DemoStudentApplication.pdb

@@ -1,0 +1,9 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\bin\Debug\Akhil_PictureBox_ProgressBar.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\bin\Debug\Akhil_PictureBox_ProgressBar.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\bin\Debug\Akhil_PictureBox_ProgressBar.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.csprojResolveAssemblyReference.cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_PictureBox_ProgressBar\Akhil_PictureBox_ProgressBar\obj\Debug\Akhil_PictureBox_ProgressBar.pdb

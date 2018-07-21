@@ -1,0 +1,9 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\bin\Debug\Akhil_Radiobutton.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\bin\Debug\Akhil_Radiobutton.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\bin\Debug\Akhil_Radiobutton.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.csprojResolveAssemblyReference.cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_Radiobutton\Akhil_Radiobutton\obj\Debug\Akhil_Radiobutton.pdb

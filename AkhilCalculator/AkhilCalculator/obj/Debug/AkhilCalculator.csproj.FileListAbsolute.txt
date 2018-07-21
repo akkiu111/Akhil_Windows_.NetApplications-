@@ -1,0 +1,18 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.csprojResolveAssemblyReference.cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.pdb
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.exe.config
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.exe
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.pdb
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.exe
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\bin\Debug\AkhilCalculator.pdb
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.csprojResolveAssemblyReference.cache
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.Form1.resources
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.Properties.Resources.resources
+D:\Courses\Consultancy_Assignments\AkhilCalculator\AkhilCalculator\obj\Debug\AkhilCalculator.csproj.GenerateResource.Cache

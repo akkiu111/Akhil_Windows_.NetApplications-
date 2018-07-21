@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="PlayersModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PlayersModelStoreContainer">
+    <EntitySet Name="Voters" EntityType="PlayersModel.Store.Voters" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Pets" EntityType="PlayersModel.Store.Pets" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VoterPet" EntityType="PlayersModel.Store.VoterPet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_VoterPet_Voter" Association="PlayersModel.Store.FK_VoterPet_Voter">
+      <End Role="Voter" EntitySet="Voters" />
+      <End Role="VoterPet" EntitySet="VoterPet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VoterPet_Pet" Association="PlayersModel.Store.FK_VoterPet_Pet">
+      <End Role="Pet" EntitySet="Pets" />
+      <End Role="VoterPet" EntitySet="VoterPet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Voters">
+    <Key>
+      <PropertyRef Name="VoterId" />
+    </Key>
+    <Property Name="VoterId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VoterPassword" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pets">
+    <Key>
+      <PropertyRef Name="PetId" />
+    </Key>
+    <Property Name="PetId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PetName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ImageUrl" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TotalVotes" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Voting" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VoterPet">
+    <Key>
+      <PropertyRef Name="Voters_VoterId" />
+      <PropertyRef Name="Pets_PetId" />
+    </Key>
+    <Property Name="Voters_VoterId" Type="int" Nullable="false" />
+    <Property Name="Pets_PetId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_VoterPet_Voter">
+    <End Role="Voter" Type="PlayersModel.Store.Voters" Multiplicity="1" />
+    <End Role="VoterPet" Type="PlayersModel.Store.VoterPet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Voter">
+        <PropertyRef Name="VoterId" />
+      </Principal>
+      <Dependent Role="VoterPet">
+        <PropertyRef Name="Voters_VoterId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VoterPet_Pet">
+    <End Role="VoterPet" Type="PlayersModel.Store.VoterPet" Multiplicity="*" />
+    <End Role="Pet" Type="PlayersModel.Store.Pets" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Pet">
+        <PropertyRef Name="PetId" />
+      </Principal>
+      <Dependent Role="VoterPet">
+        <PropertyRef Name="Pets_PetId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="PlayersModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="PlayersModelContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Voters" EntityType="PlayersModel.Voter" />
+          <EntitySet Name="Players" EntityType="PlayersModel.Player" />
+          <AssociationSet Name="VoterPet" Association="PlayersModel.VoterPet">
+            <End Role="Voter" EntitySet="Voters" />
+            <End Role="Pet" EntitySet="Players" />
+          </AssociationSet>
+          <AssociationSet Name="VoterPlayer" Association="PlayersModel.VoterPlayer">
+            <End Role="Voter" EntitySet="Voters" />
+            <End Role="Player" EntitySet="Players" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Voter">
+          <Key>
+            <PropertyRef Name="VoterId" />
+          </Key>
+          <Property Name="VoterId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VoterPassword" Type="String" Nullable="false" />
+          <NavigationProperty Name="Players" Relationship="PlayersModel.VoterPlayer" FromRole="Voter" ToRole="Player" />
+        </EntityType>
+        <EntityType Name="Player">
+          <Key>
+            <PropertyRef Name="PlayerId" />
+          </Key>
+          <Property Name="PlayerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="PlayerName" Type="String" Nullable="false" />
+          <Property Name="ImageUrl" Type="String" Nullable="false" />
+          <Property Name="TotalVotes" Type="String" Nullable="false" />
+          <Property Name="Voting" Type="String" Nullable="false" />
+          <NavigationProperty Name="Voters" Relationship="PlayersModel.VoterPlayer" FromRole="Player" ToRole="Voter" />
+        </EntityType>
+        <Association Name="VoterPet">
+          <End Type="PlayersModel.Voter" Role="Voter" Multiplicity="*" />
+          <End Type="PlayersModel.Player" Role="Pet" Multiplicity="*" />
+        </Association>
+        <Association Name="VoterPlayer">
+          <End Type="PlayersModel.Voter" Role="Voter" Multiplicity="*" />
+          <End Type="PlayersModel.Player" Role="Player" Multiplicity="*" />
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PlayersModelStoreContainer" CdmEntityContainer="PlayersModelContainer">
+    <EntitySetMapping Name="Voters">
+      <EntityTypeMapping TypeName="IsTypeOf(PlayersModel.Voter)">
+        <MappingFragment StoreEntitySet="Voters">
+          <ScalarProperty Name="VoterId" ColumnName="VoterId" />
+          <ScalarProperty Name="VoterPassword" ColumnName="VoterPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Players">
+      <EntityTypeMapping TypeName="IsTypeOf(PlayersModel.Player)">
+        <MappingFragment StoreEntitySet="Pets">
+          <ScalarProperty Name="PlayerId" ColumnName="PetId" />
+          <ScalarProperty Name="PlayerName" ColumnName="PetName" />
+          <ScalarProperty Name="ImageUrl" ColumnName="ImageUrl" />
+          <ScalarProperty Name="TotalVotes" ColumnName="TotalVotes" />
+          <ScalarProperty Name="Voting" ColumnName="Voting" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="VoterPet" TypeName="PlayersModel.VoterPet" StoreEntitySet="VoterPet">
+      <EndProperty Name="Voter">
+        <ScalarProperty Name="VoterId" ColumnName="Voters_VoterId" />
+      </EndProperty>
+      <EndProperty Name="Pet">
+        <ScalarProperty Name="PlayerId" ColumnName="Pets_PetId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

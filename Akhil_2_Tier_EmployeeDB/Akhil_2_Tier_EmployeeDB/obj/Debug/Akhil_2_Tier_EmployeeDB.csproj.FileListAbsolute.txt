@@ -1,0 +1,18 @@
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.exe.config
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.exe
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.pdb
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.csprojResolveAssemblyReference.cache
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.Form1.resources
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.Properties.Resources.resources
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.csproj.GenerateResource.Cache
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.exe
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.exe.config
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\bin\Debug\Akhil_2_Tier_EmployeeDB.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.csprojResolveAssemblyReference.cache
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.Form1.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.Properties.Resources.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.csproj.GenerateResource.Cache
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_2_Tier_EmployeeDB\Akhil_2_Tier_EmployeeDB\obj\Debug\Akhil_2_Tier_EmployeeDB.pdb

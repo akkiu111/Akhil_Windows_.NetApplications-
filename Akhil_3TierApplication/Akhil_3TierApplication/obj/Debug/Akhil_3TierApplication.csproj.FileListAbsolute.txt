@@ -1,0 +1,28 @@
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe.config
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.pdb
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csprojResolveAssemblyReference.cache
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Form1.resources
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Properties.Resources.resources
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csproj.GenerateResource.Cache
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.exe
+c:\users\konda\documents\visual studio 2017\Projects\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe.config
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.pdb
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csprojResolveAssemblyReference.cache
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Form1.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Properties.Resources.resources
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csproj.GenerateResource.Cache
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.exe
+D:\Courses\Akhil_Dotnet Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.pdb
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe.config
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.exe
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\bin\Debug\Akhil_3TierApplication.pdb
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csprojResolveAssemblyReference.cache
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Form1.resources
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.Properties.Resources.resources
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csproj.GenerateResource.Cache
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.exe
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.pdb
+D:\Courses\Akhil_Dotnet Applications\ADO.NET Applications\Akhil_3TierApplication\Akhil_3TierApplication\obj\Debug\Akhil_3TierApplication.csproj.CoreCompileInputs.cache

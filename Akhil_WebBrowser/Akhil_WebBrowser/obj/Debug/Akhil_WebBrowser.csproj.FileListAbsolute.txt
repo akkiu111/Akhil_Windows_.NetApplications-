@@ -1,0 +1,8 @@
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\bin\Debug\Akhil_WebBrowser.exe.config
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\bin\Debug\Akhil_WebBrowser.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\bin\Debug\Akhil_WebBrowser.pdb
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\obj\Debug\Akhil_WebBrowser.Form1.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\obj\Debug\Akhil_WebBrowser.Properties.Resources.resources
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\obj\Debug\Akhil_WebBrowser.csproj.GenerateResource.Cache
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\obj\Debug\Akhil_WebBrowser.exe
+C:\Users\konda\Documents\Visual Studio 2015\Projects\Akhil_WebBrowser\Akhil_WebBrowser\obj\Debug\Akhil_WebBrowser.pdb
